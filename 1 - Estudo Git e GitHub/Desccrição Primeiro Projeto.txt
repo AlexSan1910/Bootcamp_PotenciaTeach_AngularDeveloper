@@ -1,0 +1,5 @@
+Esse arquivo irá contar apenas uma descrição do que foi efetuado.
+
+Basicamente como primeiro projeto do bootcamp Potencia Tech, devemos apenas criar um repositorio
+no git localmente em nosa maquina e na nuvem, e devemos aplicar tudo que aprendemos nessa aula,
+para a criação desses repositorios assim comprovando tudo que foi feito.
