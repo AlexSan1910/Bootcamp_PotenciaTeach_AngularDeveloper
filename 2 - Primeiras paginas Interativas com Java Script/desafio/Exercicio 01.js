@@ -15,10 +15,10 @@ const nota3 = 6;
 
 let mediaNota = (nota1 + nota2 + nota3) / 3;
 
-if(mediaNota < 5){
+if(mediaNota <= 5){
     console.log("Reprovação");
-}else if(mediaNota < 7){
+}else if(mediaNota > 5 && mediaNota <= 7){
     console.log("recuperação")
-}else if(mediaNota > 7){
+}else{
     console.log("Aprovado você passou de semestre!")
 }
